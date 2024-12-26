@@ -32,10 +32,10 @@ home = ["HTML", "RSS", "JSON"]
     url = "#"
     weight = 2
 
-  [[menu.main]]
-    identifier = "workshops"
-    name = "Workshops"
-    url = "/workshops"
-    weight = 1
+#  [[menu.main]]
+#    identifier = "workshops"
+#    name = "Workshops"
+#    url = "/workshops"
+#    weight = 1
 
 #["static/38c3.css", "static/custom.css"]
