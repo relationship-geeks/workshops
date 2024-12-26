@@ -1,0 +1,9 @@
+[submodule "rgworkshop/themes/compose"]
+	path = rgworkshop/themes/compose
+	url = https://github.com/onweru/compose.git
+[submodule "rgworkshop/themes/Niello"]
+	path = rgworkshop/themes/Niello
+	url = https://github.com/guangmean/Niello.git
+[submodule "rgworkshop/themes/github.com/coolapso/hugo-theme-hello-43s3ti"]
+	path = rgworkshop/themes/github.com/coolapso/hugo-theme-hello-43s3ti
+	url = https://github.com/coolapso/hugo-theme-hello-4s3ti.git
