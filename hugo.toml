@@ -1,12 +1,12 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://workshop.relationship-geeks.de/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = '38C3|Relationship Geeks'
 enableRobotsTXT = true
 
 #theme = ["github.com/4s3ti/hugo-theme-hello-4s3ti"]
 
 [outputs]
-home = ["HTML", "RSS","JSON"]
+home = ["HTML", "RSS", "JSON"]
 
 [params]
   customCSS = ["/38c3.css", "/custom.css"]
