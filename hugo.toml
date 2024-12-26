@@ -29,7 +29,7 @@ home = ["HTML", "RSS", "JSON"]
   [[menu.main]]
     identifier = "about"
     name = "About"
-    url = "#"
+    url = "https://events.ccc.de/congress/2024/hub/de/assembly/rg/"
     weight = 2
 
 #  [[menu.main]]
