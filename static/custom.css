@@ -1,4 +1,4 @@
-.theme--dark a {
+.post-content a {
     color: rgb(var(--color-highlight)) !important;
 }
 
