@@ -19,7 +19,7 @@
             {{ if .IsHome }}
                 {{ $PageContext = .Site }}
             {{ end }}
-            {{ $paginator := .Paginate (where $PageContext.RegularPages "Type" $contentTypeName) 2 }}
+            {{ $paginator := .Paginate (where $PageContext.RegularPages "Type" $contentTypeName) 100 }}
             <div class="content">
                 <div class="posts">
                     <div class="post on-list">
