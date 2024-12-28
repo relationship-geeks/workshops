@@ -37,3 +37,13 @@ The Thinking Aro explains what relationship anarchy is to them. They define it p
 The tone of this text is conversational and it can be a good first-read on the differences between relationship anarchy and polyamory, as the author envisions them. It contains a bit of strong language.
 
 ### [Juan Carlos Pérez Cortés - Relationship Anarchy. Occupy Intimacy!](https://theanarchistlibrary.org/library/juan-carlo-perez-cortez-relationship-anarchy)
+
+### Tools
+
+#### Relationship Arnarchy Smorgasbord
+
+The RA smorgasbord is a tool that can help in finding what aspects you want or don't want to have in your relationships and liberate it from societal norms.
+
+- [Explanation](https://www.multiamory.com/podcast/339-the-smorgasbord-of-relationships)
+
+- [interactive web version](https://smorgasbord.plusx.black/)
