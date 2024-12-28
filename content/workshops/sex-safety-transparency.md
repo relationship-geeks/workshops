@@ -19,11 +19,13 @@ know your risk and that of your sexual partners
 ### 2. Individual safety requirements
 
 everyone has different requirements and that's okay
+
 - Fluid bonding?
 - increased health risk (pregnancy, age, chronic disease...)
 - Individual willingness to accept risks
 
 ### 3. Precautions
+
 ...depending on your risk
 
 - barriers (condom, dental dam/latex sheets, latex gloves...)
@@ -39,6 +41,13 @@ everyone has different requirements and that's okay
     - However, this is about both of your boundaries. It's totally valid to not want to share some information, but be open about it -> if you cannot meet your partner's meets in terms of transparency this might have implications for the risks you can take together, but it's entirely valid
 - Tell your recent sexual partners if there's a risk of infection (that's, imo, the bare minimum of transparency)
     - It *might* be important to tell them even if you don't know for sure if you're infected to avoid spreading the disease further
+
+### Tool for risk assessment (covers steps 1-2)
+
+alone or with partners (polycule, fluid bonded peers, ...)
+
+- [english version](https://cryptpad.fr/sheet/#/2/sheet/view/U9iyifH7T+ulJHr00pCowfdIvsL3cqxY5o39NHuPKvo/embed/)
+- [german version](https://cryptpad.fr/sheet/#/2/sheet/view/txdm3OEhfSIYUW7JOgvK-ng+urq91j13jniUi9sXWQQ/embed/)
 
 ## Testing
 
