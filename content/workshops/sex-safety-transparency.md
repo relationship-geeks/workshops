@@ -92,3 +92,7 @@ alone or with partners (polycule, fluid bonded peers, ...)
     - https://www.lilli.ch/
     - https://lovelife.ch
     - https://www.en.aidshilfe.de/
+
+### License
+
+This document is provided under [CC0](https://creativecommons.org/publicdomain/zero/1.0/). Feel free to use it however you deem useful.
