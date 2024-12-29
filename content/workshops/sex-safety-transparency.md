@@ -14,7 +14,7 @@ type = "workshops"
 
 Feel free to share your notes, resources and tips here:
 
-https://pad.disroot.org/p/OKF8ew_CYsjWoHd6FKBK
+https://md.darmstadt.ccc.de/9thu-nDbQ5mJzEKMQpzZAA#
 
 ## STI risk management in NMEs
 
