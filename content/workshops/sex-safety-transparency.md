@@ -5,6 +5,17 @@ draft = false
 type = "workshops"
 +++
 
+## Disclaimer
+
+>Neither am I medically trained nor have professionals been involved in the creation of this talk or it’s accompanying materials. 
+> Please consult medical professionals if unsure about any of the provided information.
+
+## Audience notes
+
+Feel free to share your notes, resources and tips here:
+
+https://pad.disroot.org/p/OKF8ew_CYsjWoHd6FKBK
+
 ## STI risk management in NMEs
 
 ### 1. Risk awareness
