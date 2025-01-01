@@ -1,0 +1,3 @@
+[submodule "archive/38c3"]
+	path = archive/38c3
+	url = git@github.com:relationship-geeks/workshops_38c3.git
