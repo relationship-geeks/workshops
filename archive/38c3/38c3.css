@@ -1,0 +1,41 @@
+@font-face {
+    font-family: 'pilowlava';
+    src: URL('fonts/pilowlava/Fonts/webfonts/Pilowlava-Regular.woff2')  format('woff2');
+}
+@font-face {
+    font-family: 'spacegrotesk';
+    src: URL('fonts/space-grotesk-1.1.4/webfont/SpaceGrotesk-Regular.woff2') format('woff2');
+    src: URL('fonts/space-grotesk-1.1.4/webfont/SpaceGrotesk-Bold.woff2') format('woff2');
+    src: URL('fonts/space-grotesk-1.1.4/webfont/SpaceGrotesk-Light.woff2') format('woff2');
+    src: URL('fonts/space-grotesk-1.1.4/webfont/SpaceGrotesk-Medium.woff2') format('woff2');
+    src: URL('fonts/space-grotesk-1.1.4/webfont/SpaceGrotesk-SemiBold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'space-mono';
+    src: URL('fonts/space-mono/SpaceMono-Regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'uncut-sans';
+    src: URL('fonts/uncut-sans/Webfonts/UncutSans-Regular.woff2') format('woff2');
+}
+
+:root {
+    --color-primary-hex: #FF5053;
+    --color-primary: 255, 80, 83;
+    --color-highlight-hex: #FEF2FF;
+    --color-highlight: 254, 242, 255;
+    --color-accent-a-hex: #B2AAFF;
+    --color-accent-a: 178, 170, 255;
+    --color-accent-b: #6A5FDB;
+    --color-accent-b-hex: 106, 95, 219;
+    --color-accent-c-hex: #29114C;
+    --color-accent-c: 41, 17, 76;
+    --color-accent-d-hex: #261A66;
+    --color-accent-d: 38, 26, 102;
+    --color-accent-e-hex: #190B2F;
+    --color-accent-e: 25, 11, 47;
+    --color-background-hex: #0F000A;
+    --color-background: 15, 0, 10;
+}
