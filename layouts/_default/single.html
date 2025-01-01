@@ -1,8 +1,8 @@
 {{ define "body" }}
     {{ if .Site.Params.backgroundEffects }}
-    <body class="{{ if .Site.Params.backgroundImage }} bg" style="background-image: url('{{ .Site.Params.backgroundImage }}');" {{ else }}"{{ end }}>
+    <body class="{{ if .Site.Params.backgroundImage }} bg" style="background-image: url('{{ relURL .Site.Params.backgroundImage }}');" {{ else }}"{{ end }}>
     {{ else }}
-    <body class="{{ if .Site.Params.backgroundImage }} background-image" style="background-image: url('{{ .Site.Params.backgroundImage }}');" {{ else }}"{{ end }}>
+    <body class="{{ if .Site.Params.backgroundImage }} background-image" style="background-image: url('{{ relURL .Site.Params.backgroundImage }}');" {{ else }}"{{ end }}>
     {{ end }}
 {{ end }}
 
