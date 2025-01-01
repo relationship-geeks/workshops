@@ -1,0 +1,5 @@
+
+[module]
+    [[module.imports]]
+    path = "github.com/4s3ti/hugo-theme-hello-4s3ti"
+    disable = false
