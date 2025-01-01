@@ -4,8 +4,7 @@ set -ex
 
 URL="${1?Missing parameter: URL}"
 
-DIR="$(cd "$0"; pwd)"
-
+cd "$(dirname "${0}")" || { echo 'Failed to change dir' >&2; exit 1; }
 #git submodule update --init --recursive
 
 rm -rf "content/archive"
@@ -15,7 +14,7 @@ do
   rm -rf "public/${archive}"
   echo "+++
 title = '$(basename "${archive}")'
-date = '$(git log -1 --format="%at" | xargs -I{} date -d @{} +%Y-%m-%dT%H:%M:%S+00:00)'
+date = '$(git log -1 --format="%at" | xargs -I{} date -d @{} +%Y-%m-%dT%H:%M:%S"$(date +%z)")'
 type = 'archive'
 +++
 
