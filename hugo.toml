@@ -9,12 +9,12 @@ enableRobotsTXT = true
 home = ["HTML", "RSS", "JSON"]
 
 [params]
-  customCSS = ["/38c3.css", "/custom.css"]
+  customCSS = ["38c3.css", "custom.css"]
   defaultTheme = "dark"
   EnableThemeToggle = false
   EnableSharingButtons = false
   EnableGlobalLanguageMenu = false
-  backgroundImage = "/img/rg_logo_bg_1920.webp"
+  backgroundImage = "img/rg_logo_bg_1920.webp"
   backgroundEffects = true
   showPosts = true
   tags = false
@@ -40,7 +40,7 @@ home = ["HTML", "RSS", "JSON"]
   [[menu.main]]
     identifier = "recommendations"
     name = "Syllabus"
-    url = "/recommendations"
+    url = "recommendations"
     weight = 1
 
 #["static/38c3.css", "static/custom.css"]
