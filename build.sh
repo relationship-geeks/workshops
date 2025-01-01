@@ -21,7 +21,7 @@ type = 'archive'
 stub" > "content/${archive}.md"
 done
 
-hugo --minify -b "$URL"
+hugo -b "${@}"
 
 for archive in archive/*
 do
