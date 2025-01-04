@@ -9,4 +9,5 @@
 	url = https://github.com/coolapso/hugo-theme-hello-4s3ti.git
 [submodule "archive/38c3"]
 	path = archive/38c3
-	url = https://github.com/relationship-geeks/workshops_38c3.git
+	url = https://github.com/relationship-geeks/workshops.git
+	branch = congress/38c3
