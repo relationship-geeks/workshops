@@ -7,3 +7,6 @@
 [submodule "rgworkshop/themes/github.com/coolapso/hugo-theme-hello-43s3ti"]
 	path = rgworkshop/themes/github.com/coolapso/hugo-theme-hello-43s3ti
 	url = https://github.com/coolapso/hugo-theme-hello-4s3ti.git
+[submodule "archive/38c3"]
+	path = archive/38c3
+	url = https://github.com/relationship-geeks/workshops_38c3.git

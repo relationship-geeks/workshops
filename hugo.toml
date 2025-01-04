@@ -1,4 +1,4 @@
-baseURL = 'https://workshop.relationship-geeks.de/'
+baseURL = 'https://relationship-geeks.github.io/'
 languageCode = 'en-us'
 title = '38C3|Relationship Geeks'
 enableRobotsTXT = true
@@ -16,7 +16,7 @@ home = ["HTML", "RSS", "JSON"]
   EnableGlobalLanguageMenu = false
   backgroundImage = "img/rg_logo_bg_1920.webp"
   backgroundEffects = true
-  showPosts = true
+  showPosts = false
   tags = false
   ReadMoreText = true
   fontAwesome = { KitURL = "https://kit.fontawesome.com/0ed5cec925.js" }
@@ -41,6 +41,12 @@ home = ["HTML", "RSS", "JSON"]
     identifier = "recommendations"
     name = "Syllabus"
     url = "recommendations"
-    weight = 1
+    weight = 2
+
+  [[menu.main]]
+    identifier = "archive"
+    name = "Archive"
+    url = "archive"
+    weight = 3
 
 #["static/38c3.css", "static/custom.css"]
