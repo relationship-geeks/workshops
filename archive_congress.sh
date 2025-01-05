@@ -13,6 +13,8 @@ then
   exit 0
 fi
 
+cd "$(dirname "${0}")" || { echo 'Failed to change dir' >&2; exit 1; }
+
 CONGRESS_ID="${1?ERR: Missing parameter: congress_id}"
 
 if [[ -e "archive/${CONGRESS_ID}" ]]
@@ -46,6 +48,8 @@ trap 'set +e; git checkout main; git remote remove "$remote_name"' EXIT
 git checkout main
 
 git submodule add -b "$branch" "$remote_url_http" "archive/${CONGRESS_ID}"
+
+git rm -r "content/workshops"
 
 trap 'set +e; git checkout main; git remote remove "$remote_name"; test -e "archive/${CONGRESS_ID}" || { git rm "archive/${CONGRESS_ID}"; rm -rf ".git/modules/archive/${CONGRESS_ID}"; }' EXIT
 
