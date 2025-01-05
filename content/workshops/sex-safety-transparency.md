@@ -57,8 +57,8 @@ everyone has different requirements and that's okay
 
 alone or with partners (polycule, fluid bonded peers, ...)
 
-- [english version](https://cryptpad.fr/sheet/#/2/sheet/view/U9iyifH7T+ulJHr00pCowfdIvsL3cqxY5o39NHuPKvo/embed/)
-- [german version](https://cryptpad.fr/sheet/#/2/sheet/view/txdm3OEhfSIYUW7JOgvK-ng+urq91j13jniUi9sXWQQ/embed/)
+- [english version](https://cryptpad.fr/sheet/#/2/sheet/view/U9iyifH7T+ulJHr00pCowfdIvsL3cqxY5o39NHuPKvo/)
+- [german version](https://cryptpad.fr/sheet/#/2/sheet/view/txdm3OEhfSIYUW7JOgvK-ng+urq91j13jniUi9sXWQQ/)
 
 ## Testing
 
