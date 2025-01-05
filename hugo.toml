@@ -1,6 +1,6 @@
 baseURL = 'https://workshop.relationship-geeks.de'
 languageCode = 'en-us'
-title = '38C3|Relationship Geeks'
+title = 'workshops|Relationship Geeks'
 enableRobotsTXT = true
 
 #theme = ["github.com/4s3ti/hugo-theme-hello-4s3ti"]
@@ -23,7 +23,7 @@ home = ["HTML", "RSS", "JSON"]
   ShowReadingTime = true
   LastModDisplay = true
   contentTypeName = "workshops"
-  logo = { logoMark = "38C3 $", logoText = "relationship_geeks", logoCursorColor = "#FF5053" }
+  logo = { logoMark = "workshops $", logoText = "relationship_geeks", logoCursorColor = "#FF5053" }
 
 [menu]
   [[menu.main]]
