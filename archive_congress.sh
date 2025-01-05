@@ -1,15 +1,16 @@
 #!/usr/bin/env bash
 
-set -ex
+set -e
 
 if [[ " $* " =~ " "(--help|-h)" " ]]
 then
   echo "archive_congress.sh [OPTIONS] congress_id
+
+  Archives current event site and resets workshops
   
   OPTIONS
     -h, --help    Print this message and exit
-    --gh-auth-ssh Use ssh for pushing to github (will not affect existing/permanent remotes or submodules)
-"
+    --gh-auth-ssh Use ssh for pushing to github (will not affect existing/permanent remotes or submodules)"
   exit 0
 fi
 

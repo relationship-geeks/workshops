@@ -1,6 +1,21 @@
 #!/usr/bin/env bash
 
-set -ex
+set -e
+
+if [[ " $* " =~ " "(--help|-h)" " ]]
+then
+  echo "build.sh [OPTIONS] [HUGO_OPTIONS]
+  
+  Builds main site and archives
+
+  OPTIONS
+    -h, --help Show this message
+    -w, --watch Continously watch for file changes and rebuild
+  
+  HUGO_OPTIONS
+    any other options are passed to hugo when building main site or archive sites"
+  exit 0
+fi
 
 URL="${1?Missing parameter: URL}"
 shift
