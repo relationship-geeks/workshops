@@ -20,7 +20,7 @@ jobs:
           hugo-version: 0.121.0
           extended: true
       - name: Build
-        run: bash ./build.sh https://relationship-geeks.github.io/workshops --minify
+        run: bash ./build.sh https://workshop.relationship-geeks.de --minify
       
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
