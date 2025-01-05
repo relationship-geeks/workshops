@@ -1,7 +1,5 @@
 # Relationship Geeks Workshops Site
 
-Repository for Relationship Geeks workshops
-
 ## Concept
 
 This repository contains resources for workshops offered by the relationship geeks group on current and past events.
