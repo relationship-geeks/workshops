@@ -16,7 +16,7 @@ home = ["HTML", "RSS", "JSON"]
   EnableGlobalLanguageMenu = false
   backgroundImage = "img/rg_logo_bg_1920.webp"
   backgroundEffects = true
-  showPosts = false
+  showPosts = true
   tags = false
   ReadMoreText = true
   fontAwesome = { KitURL = "https://kit.fontawesome.com/0ed5cec925.js" }
