@@ -1,6 +1,6 @@
-# Relationship Works Workshops Site
+# Relationship Geeks Workshops Site
 
-Parent repository for RG workshops
+Repository for Relationship Geeks workshops
 
 ## Build & Development
 
