@@ -9,7 +9,7 @@ enableRobotsTXT = true
 home = ["HTML", "RSS", "JSON"]
 
 [params]
-  customCSS = ["38c3.css", "custom.css"]
+  customCSS = ["39c3.css", "custom.css"]
   defaultTheme = "dark"
   EnableThemeToggle = false
   EnableSharingButtons = false
@@ -23,7 +23,7 @@ home = ["HTML", "RSS", "JSON"]
   ShowReadingTime = true
   LastModDisplay = true
   contentTypeName = "workshops"
-  logo = { logoMark = "workshops $", logoText = "relationship_geeks", logoCursorColor = "#FF5053" }
+  logo = { logoMark = "workshops $", logoText = "relationship_geeks", logoCursorColor = "#00ff00" }
 
 [menu]
   [[menu.main]]
@@ -48,5 +48,3 @@ home = ["HTML", "RSS", "JSON"]
     name = "Archive"
     url = "archive"
     weight = 3
-
-#["static/38c3.css", "static/custom.css"]
