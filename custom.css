@@ -7,8 +7,12 @@ span.logo__text {
     font-family: space-mono, monospace !important;
 }
 
-body {
+span.logo__mark {
     color: rgb(var(--color-accent-a)) !important;
+}
+
+body {
+    color: rgb(var(--color-neutral)) !important;
     font-family: uncut-sans, sans, sans-serif !important;
     background-color: rgb(var(--color-background)) !important;
 }

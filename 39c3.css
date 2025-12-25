@@ -67,7 +67,7 @@
     --color-additional-01-hex: #ff3719;
     --color-additional-02-hex: #66f2ff;
     --color-dark-hex: #141414;
-    --color-neutral: #faf5f5;
+    --color-neutral-hex: #faf5f5;
 
     --color-primary-tint-01: #009900;
     --color-primary-tint-02: #00be00;
@@ -94,6 +94,7 @@
     --color-highlight: var(--color-additional-02);
 
     --color-dark: 19, 19, 19;
+    --color-neutral: 250, 245, 245;
     --color-background-hex: var(--color-dark-hex);
     --color-background: var(--color-dark);
 
