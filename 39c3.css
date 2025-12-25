@@ -1,0 +1,112 @@
+@font-face {
+    font-family: 'KarioDuplexVar';
+    src: URL('fonts/Kario39C3Var-Roman.ttf') format('truetype');
+    src: URL('fonts/Kario39C3VarWEB-Roman.woff') format('woff');
+    src: URL('fonts/Kario39C3VarWEB-Roman.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'OfficerSansCond';
+    src: URL('fonts/OfficerSansCondWeb-Regular.woff') format('woff');
+    src: URL('fonts/OfficerSansCondWeb-Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'OfficerSansCond';
+    font-weight: bold;
+    font-style: italic;
+    src: URL('fonts/OfficerSansCondWeb-BoldItalic.woff') format('woff');
+    src: URL('fonts/OfficerSansCondWeb-BoldItalic.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'OfficerSansCond';
+    font-weight: bold;
+    src: URL('fonts/OfficerSansCondWeb-Bold.woff') format('woff');
+    src: URL('fonts/OfficerSansCondWeb-Bold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'OfficerSansCond';
+    font-style: italic;
+    src: URL('fonts/OfficerSansCondWeb-RegularItalic.woff') format('woff');
+    src: URL('fonts/OfficerSansCondWeb-RegularItalic.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'OfficerSans';
+    src: URL('fonts/OfficerSansWeb-Regular.woff') format('woff');
+    src: URL('fonts/OfficerSansWeb-Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'OfficerSans';
+    font-weight: bold;
+    font-style: italic;
+    src: URL('fonts/OfficerSansWeb-BoldItalic.woff') format('woff');
+    src: URL('fonts/OfficerSansWeb-BoldItalic.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'OfficerSans';
+    font-weight: bold;
+    src: URL('fonts/OfficerSansWeb-Bold.woff') format('woff');
+    src: URL('fonts/OfficerSansWeb-Bold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'OfficerSans';
+    font-style: italic;
+    src: URL('fonts/OfficerSansWeb-RegularItalic.woff') format('woff');
+    src: URL('fonts/OfficerSansWeb-RegularItalic.woff2') format('woff2');
+}
+
+:root {
+    --color-primary-hex: #00ff00;
+    --color-secondary-hex: #9673ff;
+    --color-additional-01-hex: #ff3719;
+    --color-additional-02-hex: #66f2ff;
+    --color-dark-hex: #141414;
+    --color-neutral: #faf5f5;
+
+    --color-primary-tint-01: #009900;
+    --color-primary-tint-02: #00be00;
+    --color-primary-tint-03: #00d300;
+    --color-primary-tint-04: #00ea00;
+    --color-primary-tint-05: #a3ff90;
+    --color-primary-tint-06: #ccffbe;
+    --color-primary-tint-07: #ebffe5;
+
+    --color-secondary-tint-01: #4d2eed;
+    --color-secondary-tint-02: #5c33f4;
+    --color-secondary-tint-03: #7952fe;
+    --color-secondary-tint-04: #b69dfe;
+    --color-secondary-tint-05: #d4c4fe;
+    --color-secondary-tint-06: #efe7ff;
+
+    /** ------ **/
+
+    --color-primary: 0, 255, 0;
+    --color-secondary: 150, 115, 255;
+    --color-additional-01: 255, 55, 25;
+    --color-additional-02: 102, 242, 255;
+    --color-highlight-hex: var(--color-additional-02-hex);
+    --color-highlight: var(--color-additional-02);
+
+    --color-dark: 19, 19, 19;
+    --color-background-hex: var(--color-dark-hex);
+    --color-background: var(--color-dark);
+
+
+    --color-accent-a--hex: var(--color-secondary-hex);
+    --color-accent-a: var(--color-secondary);
+
+}
+
+@keyframes font_weight_wave {
+    from {
+        font-weight: 10;
+    } to {
+          font-weight: 100;
+      }
+}
