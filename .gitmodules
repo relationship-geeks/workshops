@@ -11,3 +11,7 @@
 	path = archive/38c3
 	url = https://github.com/relationship-geeks/workshops.git
 	branch = congress/38c3
+[submodule "archive/39c3"]
+	path = archive/39c3
+	url = https://github.com/relationship-geeks/workshops.git
+	branch = congress/39c3
